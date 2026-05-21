@@ -2,6 +2,18 @@
 
 Personal finance tracker built for the Taghyeer Technologies Senior Flutter Developer assessment.
 
+## Task overview
+
+Click the link below to open the Loom video preview in your browser:
+
+[**Open task overview (Loom)**](https://www.loom.com/share/08c8e163721a4811ac809c56c392278f)
+
+If the link does not open from your editor, copy and paste this URL:
+
+```
+https://www.loom.com/share/08c8e163721a4811ac809c56c392278f
+```
+
 ## Architecture
 
 - **Clean Architecture** with `presentation` → `domain` → `data` layers
